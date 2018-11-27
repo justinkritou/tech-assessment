@@ -28,3 +28,5 @@ print("converting to csv file...")
 df_cityData.to_csv('2017_NYC_Data.csv', index=False)
 
 print("COMPLETE!")
+
+#note: there is an opportunity to paralize the fetching step using threading
