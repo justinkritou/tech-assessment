@@ -1,4 +1,5 @@
 # tech-assessment
+Uses Python, Jupyter Notebook, and pandas/numpy to ingest, and clean NYC 311 Data and to answer specified questions.
 
 ### To Test:
 1. clone or download the repository
